@@ -24,7 +24,8 @@ The designs were created to the following widths:
 - Violet blue (circle): hsla(256, 72%, 46%, 1)
 - Persian blue (circle): hsla(241, 72%, 46%, 0)
 
-
+minha config do circulo
+linear-gradient(hsla(256, 72%, 29%, 1), hsla(241, 72%, 58%, 1))
 
 ### Neutral
 
